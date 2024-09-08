@@ -1,1 +1,1 @@
-My first github repoi
+My first github repo

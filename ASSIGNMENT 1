@@ -10,5 +10,5 @@ void main()
   scanf("%c",&name);
   printf("\n enter the roll no and name");
   printf("\n Hello i am kshitij");
-  
+    printf("\n Hello i am kshitij from mckvie");
 }

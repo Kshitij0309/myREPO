@@ -9,4 +9,6 @@ void main()
   printf("\n Enter your name:");
   scanf("%c",&name);
   printf("\n enter the roll no and name");
+  printf("\n Hello i am kshitij");
+  
 }
